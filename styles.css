@@ -1,7 +1,7 @@
 :root {
     --white: #fff;
     --text:rgba(57, 40, 40, 0.547);
-    --pale: rgb(241, 233, 233);
+    --pale: rgb(235, 225, 226);
     --green: rgb(155, 208, 155);
     --grey: #ddd;
 }
@@ -14,7 +14,7 @@
 }
 
 body {
-   background-color: var(--pale) ;
+   background: var(--pale) ;
 }
 
 #header-img {
